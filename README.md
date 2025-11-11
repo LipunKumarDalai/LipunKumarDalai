@@ -3,32 +3,32 @@
 
 ---
 
-### 🌱 About Me
+### About Me
 - 🎓 BCA Student at **ITER, Siksha 'O' Anusandhan University**
-- 💡 Currently learning **Machine Learning**, **Deep Learning**, and **Generative AI**
-- ⚙️ Working on projects like:
+- Currently learning **Machine Learning**, **Deep Learning**, and **Generative AI**
+- Working on projects like:
   - Time-Forecasting Models  
-  - Customer Segmentation  
+  - Anamoly Detection  
   - Next Word Prediction  
   - Spell Checker (Web App)
 - 🎯 Goal: Master ML, NLP, and AI by **end of 2026**
 
 ---
 
-### 🧠 Tech Stack
-#### 💻 Languages
+### Tech Stack
+#### Languages
 `Python` `C` `HTML` `C++` `SQL`
 
-#### 🧮 Libraries / Frameworks
+####  Libraries / Frameworks
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn`  
 `TensorFlow` `Keras` `Flask` `Django` `Plotly` `Streamlit`
 
-#### 🛠️ Tools & Platforms
+####  Tools & Platforms
 `Git` `GitHub` `VS Code` `MySQL` `Jupyter` `Superset` `MLflow`
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LipunKumarDalai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
@@ -41,7 +41,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/lipunkumardalai" target="_blank">
+  <a href="www.linkedin.com/in/lipunkumardalai](https://www.linkedin.com/in/lipunkumardalai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lipunkumardalai@gmail.com">
